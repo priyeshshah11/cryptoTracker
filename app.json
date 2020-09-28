@@ -13,6 +13,7 @@
     },
     "android": {
       "package": "com.priyeshshah11.cryptoTracker"
-    }
+    },
+    "description": "A Crypto Tracker application to track crypto currencies."
   }
 }
