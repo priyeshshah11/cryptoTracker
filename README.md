@@ -8,4 +8,4 @@ A React native application to track crypto curriencies.
     cd cryptoTracker
     npm install
     npm run web
-    Use the Expo Client app on your phone to scan the barcode displayed to load the app
+    Use the Expo Client app on your phone to scan the QR code displayed to load the app
