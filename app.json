@@ -10,6 +10,9 @@
     ],
     "ios": {
       "bundleIdentifier": "crypto-ios"
+    },
+    "android": {
+      "package": "com.priyeshshah11.cryptoTracker"
     }
   }
 }
